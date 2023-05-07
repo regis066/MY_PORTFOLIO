@@ -70,15 +70,15 @@ export default function resume () {
         <h1 className="text-teal-600">Small Projects I worked On:</h1>
         <div className="flex justify-between">
         <li>To Do List</li>
-        <Image src={todo} width={300}/>
+        <Image src={todo} width={300} className="rounded-2xl shadow-md"/>
         </div>
        <div className="flex justify-between mt-10">
         <li>Simple JS Calculator</li>
-       <Image src={calc} width={300}/>
+       <Image src={calc} width={300} className="rounded-2xl shadow-2xl"/>
        </div>
        <div className="flex justify-between mt-10">
        <li>JS Stop Watch</li>
-       <Image src={stopwatch} width={300}/>
+       <Image src={stopwatch} width={300} className="rounded-2xl shadow-2xl"/>
        </div>
         </div>
         </div>

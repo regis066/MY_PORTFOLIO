@@ -54,7 +54,7 @@ export default function Home() {
       <AiFillYoutube />
       </div>
       <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96 '>
-      <Image src={deved}/>
+      <Image alt= "imagepho" src={deved}/>
       </div>
       </section>
      
@@ -74,7 +74,7 @@ export default function Home() {
       </div>
       <div className='lg:flex gap-10'>
       <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
-      <Image src={design} width={100} height={100}/>
+      <Image alt= "imagepho" src={design} width={100} height={100}/>
       <h3 className='text-lg font-medium pt-8 pb-2'>Beautiful Designs</h3>
       <p className='py-2'>
       Creating elegant designs suited for your needs following core design theory.
@@ -86,7 +86,7 @@ export default function Home() {
       
       </div>
       <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
-      <Image src={code} width={100} height={100}/>
+      <Image alt= "imagepho" src={code} width={100} height={100}/>
       <h3 className='text-lg font-medium pt-8 pb-2'>Beautiful Designs</h3>
       <p className='py-2'>
       Creating elegant designs suited for your needs following core design theory.
@@ -98,7 +98,7 @@ export default function Home() {
       
       </div>
       <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
-      <Image src={consulting} width={100} height={100}/>
+      <Image alt= "imagepho" src={consulting} width={100} height={100}/>
       <h3 className='text-lg font-medium pt-8 pb-2'>Beautiful Designs</h3>
       <p className='py-2'>
       Creating elegant designs suited for your needs following core design theory.
@@ -128,22 +128,22 @@ export default function Home() {
       </div>
       <div className='flex flex-col gap-10 py-10 lg:flex-row  lg:flex-wrap'>
         <div className='basis-1/3 flex-1'>
-          <Image src={web1} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+          <Image alt= "imagepho" src={web1} className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
         </div>
         <div className='basis-1/3 flex-1'>
-          <Image src={web2}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+          <Image alt= "imagepho" src={web2}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
         </div>
         <div className='basis-1/3 flex-1'>
-          <Image src={web3}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+          <Image alt= "imagepho" src={web3}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
         </div>
         <div className='basis-1/3 flex-1'>
-          <Image src={web4}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+          <Image alt= "imagepho" src={web4}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
         </div>
         <div className='basis-1/3 flex-1'>
-          <Image src={web5}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+          <Image alt= "imagepho" src={web5}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
         </div>
         <div className='basis-1/3 flex-1'>
-          <Image src={web6}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
+          <Image alt= "imagepho" src={web6}  className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/>
         </div>
       </div>
       </section>
